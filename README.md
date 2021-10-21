@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mbdimkin
+- 👀 I’m interested in python, js, vim, ux/ui design, blender, tooling
+- 🌱 I’m currently learning what I'm intrested in
+- 💞️ I’m looking to collaborate on ui/ux design for intresting projects
+- 📫 How to reach me — try my twitter https://twitter.com/dimkin_dead
